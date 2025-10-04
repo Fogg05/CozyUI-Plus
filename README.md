@@ -1,5 +1,5 @@
 ![image](description_image/banner.jpg)
-![image](description_image/title.gif)
+![image](description_image/title v1.9.gif)
 
 # CozyUI+
 
