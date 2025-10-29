@@ -1,5 +1,5 @@
 ![image](description_image/banner.jpg)
-![image](description_image/title-v1.9.gif)
+![image](description_image/title.gif)
 
 # CozyUI+
 
@@ -90,7 +90,7 @@ Various colored shulker boxes, droppers, dispensers, and ender chests can be dis
 
 ### ● Emoji+ & MCsans+
 
-Modify the fontsto high-definition NotoSans and FluentEmoji.
+Modify the fonts to high-definition NotoSans and FluentEmoji.
 
 内置了这两款材质包。Emoji+ 将 Emoji 修改为了 FluentEmoji，MCsans+ 将字体修改为了高清的 NotoSans。
 
