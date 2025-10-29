@@ -61,7 +61,7 @@ Mod Menu - 模组菜单 | [🔗 Modrinth](https://modrinth.com/mod/modmenu) | �
 No Chat Reports - 禁用聊天举报 | [🔗 Modrinth](https://modrinth.com/mod/no-chat-reports) | 🔄 Optional
 Simple Voice Chat - 简单的语音聊天 | [🔗 Modrinth](https://modrinth.com/plugin/simple-voice-chat) | 🔄 Optional
 Entity Features - 实体特性 | [🔗 Modrinth](https://modrinth.com/mod/entitytexturefeatures) | 🔄 Optional
-Overflowing Bars - 实体特性 | [🔗 Modrinth](https://modrinth.com/mod/overflowing-bars) | 🔄 Optional
+Overflowing Bars | [🔗 Modrinth](https://modrinth.com/mod/overflowing-bars) | 🔄 Optional
 
 ***
 
